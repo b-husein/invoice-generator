@@ -12,6 +12,7 @@
 - The generated invoice is ready for download and printing in PDF.
 
 [About FPDF](http://www.fpdf.org/)
+[Useful resource](https://www.studentstutorial.com/fpdf/fpdf-invoice.php)
 
 <p align="center">
 <a target="_blank" href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT"></a>
