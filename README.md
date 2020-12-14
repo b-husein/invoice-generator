@@ -7,7 +7,6 @@
 - Clean, responsive, well organized and simple with Modern UI Design.
 - An invoice generator for an online store or store with computerised receipt.
 - Pulls data from client such as details of customer and details of products
-- Contains all essential information related to latest projects.
 - Coded with HTML5, JS, PHP, CSS3, Bootstrap and FPDF. 🔨
 - The generated invoice is ready for download and printing in PDF.
 
