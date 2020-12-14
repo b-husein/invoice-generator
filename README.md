@@ -1,6 +1,6 @@
 ## PHP INVOICE GENERATOR
 
-[Live demo]()
+[Live demo](https://invoice-generator-php.herokuapp.com/)
 
 ### Features
 
@@ -11,7 +11,7 @@
 - Coded with HTML5, JS, PHP, CSS3, Bootstrap and FPDF. 🔨
 - The generated invoice is ready for download and printing in PDF.
 
-[About FPDF](http://www.fpdf.org/)
+[About FPDF](http://www.fpdf.org/)<br>
 [Useful resource](https://www.studentstutorial.com/fpdf/fpdf-invoice.php)
 
 <p align="center">
